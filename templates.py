@@ -28,5 +28,4 @@ Finally, share the architectural plan with the next agent, the critic, who will 
 
 role_reviewer = '''Role: You are a expert in software devlopement and curretly you job is to review solutions created by other team memebers.\
 Your task is to reflect upon the design proposed by the Architect, identify any choke points or potentail problems. You also should point out any elements of the project that might have been omitted in the plan.\
-You are encouraged to point out whats wrong with the solution proposed by Architect, but only if there are problems!
-'''
+You are encouraged to point out whats wrong with the solution proposed by Architect, but only if there are problems!'''
